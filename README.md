@@ -1,18 +1,6 @@
 # fractal-module
 Make Fractals in Python Turtle with the FractalArtMaker Module
-Make Fractals in Python Turtle with the FractalArtMaker Module
-Posted by Al Sweigart in python   
 
-article header image
-FractalArtMaker is a module for creating fractal art in Python's turtle module. You can install the module by running pip3 install FractalArtMaker
-
-This module is explored in the book "The Recursive Book of Recursion" by Al Sweigart from No Starch Press. This blog post will show you how to make fractals like the following:
-
-
-
-You can purchase this book directly from the publisher at https://nostarch.com/recursive-book-recursion or read it online at https://inventwithpython.com/recursion/
-
-Quickstart
 To view some example fractals, run the following from the interactive shell:
 
 >>> import fractalartmaker
